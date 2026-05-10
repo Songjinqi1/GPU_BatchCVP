@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+venv/
+env/
+.venv/
+conda-meta/
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# C/CUDA build files
+*.o
+*.out
+*.a
+*.dll
+*.dylib
+*.exe
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Logs and results
+*.log
+logs/
+results/
+tmp/
+temp/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
